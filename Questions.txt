@@ -1,0 +1,9 @@
+Do you prefer High Humidity or Low Humidity
+Do you prefer Hot Temperatures or Cold Temperatures
+Do you like the city or the suburbs
+Do you like a cyberpunk-esk environment (techy environment) 
+Out of the four season (Spring, Summer, Fall, Winter), which is your favorite 
+If it’s cold outside, do you put on the heater or put on more cloths
+Are you an adventurous person?
+Do you enjoy socializing? 
+Do you like attending activities (Concerts, Games, ect)? 
